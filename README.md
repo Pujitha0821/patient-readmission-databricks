@@ -152,17 +152,6 @@ This solution can support hospitals in:
 - ✔ Lakehouse architecture simplifies end-to-end workflows  
 - ✔ ML delivers value only when integrated into real processes  
 
----
-
-## 🔮 Future Enhancements
-
-- Advanced class imbalance handling (SMOTE, class weighting)  
-- Richer clinical features and visit trend analysis  
-- Explainability using feature importance & SHAP values  
-- Model deployment with monitoring and drift detection  
-- Risk stratification (low / medium / high) linked to interventions  
-
----
 
 ## 📽️ Project Demo & Documentation
 
